@@ -38,7 +38,7 @@ $('.carousel').carousel({
 </script>
 <!-- esto es una prueba looooool BAD BUNE-->
   <!--================ Hero banner start =================-->
-  
+
     <!--================ Hero banner start =================-->
 
 
@@ -456,19 +456,21 @@ $('.carousel').carousel({
         <div class="subscribe text-center">
           <h3 class="subscribe__title">¡SUSCRIBETE!</h3>
           <p>Suscribete para recibir ofertas y novedades de Glamista Store</p>
-          <div id="mc_embed_signup">
-            <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe-form form-inline mt-5 pt-1">
+          <body>
+
+            <form action="guardarArchivo.php" method="post" class="subscribe-form form-inline mt-5 pt-1">
               <div class="form-group ml-sm-auto">
-                <input class="form-control mb-1" type="email" name="EMAIL" placeholder="Ingresa tu email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '" >
+                <input class="form-control mb-1" type="email" name="email" placeholder="Ingresa tu email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '" >
                 <div class="info"></div>
               </div>
-              <button class="button button-subscribe mr-auto mb-1" type="submit">Subscribete Ahora</button>
+              <input class="button button-subscribe mr-auto mb-1" type="submit" name="boton" value="Suscribete"></button>
               <div style="position: absolute; left: -5000px;">
-                <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
+
               </div>
 
             </form>
-          </div>
+          </body>
+
 
         </div>
       </div>
