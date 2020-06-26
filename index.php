@@ -2,28 +2,43 @@
 
 <!DOCTYPE html>
 
+<section>
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="img/c4.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/c4.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/c4.jpg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</section>
 
+<script>
+$('.carousel').carousel({
+  interval: 2000
+})
+</script>
 <!-- esto es una prueba looooool BAD BUNE-->
   <!--================ Hero banner start =================-->
-  <section class="hero-banner">
-      <div class="container">
-        <div class="row no-gutters align-items-center pt-60px">
-          <div class="col-5 d-none d-sm-block">
-            <div class="hero-banner__img">
-              <img class="img-fluid" src="img/glamista/1.png" alt="">
-            </div>
-          </div>
-          <div class="col-sm-7 col-lg-6 offset-lg-1 pl-4 pl-md-5 pl-lg-0">
-            <div class="hero-banner__content">
-              <h4>Glamista Store</h4>
-              <h1>Glamista Store</h1>
-              <p>Glamista Store</p>
-              <a class="button button-hero" href="#">Glamista Store</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+  
     <!--================ Hero banner start =================-->
 
 
