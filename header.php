@@ -51,6 +51,7 @@
               </ul>
             </li>
 
+            <li class="nav-item"><a class="nav-link" href="quienessomos.php">Quiénes Somos</a></li>
             <li class="nav-item"><a class="nav-link" href="contact.php">Contáctanos</a></li>
           </ul>
 
@@ -72,9 +73,6 @@
         <li><a href="https://wa.link/x3bt1v" target="_blank" class="icon-googleplus"><img src="img/glamista/wp.png"  width="30" height="30" alt=""></a></li>
       </ul>
     </div>
-    
+
 
 </header>
-
-
-
