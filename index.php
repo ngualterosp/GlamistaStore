@@ -29,27 +29,7 @@
 
 	<!--================ End Header Menu Area =================-->
 
-  <main class="site-main">
 
-
-	<section>
-    <div class="col-lg-6" alt="Image" class="img-fluid">
-      <div style="position:relative">
-        <img src="img/glamista/fondo-baner.jpg" width="1300" hspace="10" height="700" vspace="0.1" />
-        <div class="texto-encima">
-          <div class="centrado">
-            <h4>Glamista Store</h4>
-            <h1>Glamista Store</h1>
-            <p>Glamista Store</p>
-            <a class="button button-hero" href="#">Glamista Store</a>
-          </div>
-        </div>
-        <DIV STYLE="position:absolute; top:50px; left:105px; visibility:visible z-index:1">
-        <IMG height="650" SRC="img/glamista/1.png" width="460">
-        </div>
-        </div>
-      </div>
-    </section>
 
 
 
