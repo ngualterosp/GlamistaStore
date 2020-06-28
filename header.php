@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Glamista Store- Home</title>
-	<link rel="icon" href="img/glamista/solo_icono_glamista.png" type="image/png">
+	<link rel="icon" href="img/glamista/solo_icono_glamista.png"  alt="solo_icono_glamista" type="image/png">
   <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
 	<link rel="stylesheet" href="vendors/themify-icons/themify-icons.css">
@@ -21,7 +21,7 @@
   <div class="main_menu">
     <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container">
-        <a class="navbar-brand logo_h" href="index.php"><img src="img/glamista/logo-horizontal_glamista.png" width="300px" alt=""></a>
+        <a class="navbar-brand logo_h" href="index.php"><img src="img/glamista/logo-horizontal_glamista.png" alt="logo-horizontal_glamista"   width="300px" alt=""></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="icon-bar"></span>
