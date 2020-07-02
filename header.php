@@ -11,6 +11,8 @@
   <link rel="stylesheet" href="vendors/nice-select/nice-select.css">
   <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css">
   <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
   <link rel="stylesheet" href="css/style.css">
 </head>
