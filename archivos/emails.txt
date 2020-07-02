@@ -1,4 +1,12 @@
 
+<<<<<<< Updated upstream
 david@hdm.com
 sdfnico@hf.com
 lblancov@gmail.com
+=======
+nicolasgualteros_@hotmail.com
+lblanco@gmail.com
+
+no@gmil.com
+
+>>>>>>> Stashed changes
