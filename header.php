@@ -59,7 +59,7 @@
 
           <ul class="nav-shop">
 
-            <li class="nav-item"><a class="button button-header" href="#">Comprar Ahora</a></li>
+            <li class="nav-item"><a class="button button-header" href="https://wa.link/x3bt1v">Comprar Ahora</a></li>
           </ul>
         </div>
       </div>
