@@ -13,7 +13,7 @@
 
 	.social ul li a {
 		display: inline-block;
-		color:#fff;
+		color:#e8e8e8;;
 		background-color: #0BF;
 		border-top-left-radius:10px;
 		border-top-right-radius:0;
@@ -33,6 +33,6 @@
 	.social ul li .icon-mail {background: #666666;}
 
 	.social ul li a:hover {
-		background: #FFF; /* Cambiamos el fondo cuando el usuario pase el mouse */
+		background: #e8e8e8;; /* Cambiamos el fondo cuando el usuario pase el mouse */
 		padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
 	}

@@ -73,7 +73,7 @@
         <li><a href="https://www.facebook.com/glamista.store" target="_blank" class="icon-facebook"><img src="img/glamista/face.png"  width="30" height="30" alt=""></a></li>
         <li><a href="https://www.instagram.com/glamista.store/" target="_blank" class="icon-twitter"><img src="img/glamista/insta.png"  width="30" height="30" alt=""></a></li>
         <li><a href="https://wa.link/x3bt1v" target="_blank" class="icon-googleplus"><img src="img/glamista/wp.png"  width="30" height="30" alt=""></a></li>
-        <li><a href="https://wa.link/x3bt1v" target="_blank" class="icon-googleplus"><img src="img/glamista/wp.png"  width="30" height="30" alt=""></a></li>
+        <li><a href="https://wa.link/x3bt1v" target="_blank" class="icon-googleplus"><img src="img/glamista/twitter.png"  width="30" height="30" alt=""></a></li>
       </ul>
     </div>
 
