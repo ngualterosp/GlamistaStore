@@ -16,8 +16,7 @@
 						<div class="single-footer-widget tp_widgets">
 							<h4 class="footer_title">Nuestra mision</h4>
 							<p align="justify" style="color:white">
-								<b>Visión:</b> Ofrecer a nuestros clientes accesorios de bisutería tales como: aretes, cadenas, collares, juegos y pulseras; con amplia variedad de modelos, un diseño innovador y elaborados con materiales de alta calidad a excelente precio. Dando un valor agregado en su presentación con propuestas de empaque especiales, personalizadas y amigables con el medio ambiente; brindando una mejor experiencia a nuestros clientes que nos permita su fidelización con la marca.
-							</p>
+								<b>Visión:</b> Glamista Store en el año 2024 será una empresa reconocida en la ciudad de Bogotá por la innovación, calidad y presentación de sus productos. Ofreciendo su servicio a nivel nacional y superando las expectativas de sus clientes. Además brindará apoyo económico a entidades sin animo de lucro con alto impacto social.
 						</div>
 					</div>
 
