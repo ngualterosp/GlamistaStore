@@ -52,24 +52,24 @@ $('.carousel').carousel({
     <section class="section-margin mt-0">
       <div class="owl-carousel owl-theme hero-carousel">
         <div class="hero-carousel__slide">
-          <img src="img/glamista/C0023.jpg" alt="" class="img-fluid"  width="250px" height="250px">
+          <img src="img/glamista/C0023.jpg" alt="C0023" class="img-fluid"  width="250px" height="250px">
           <a href="#" class="hero-carousel__slideOverlay">
-            <h3>Glamista Store</h3>
-            <p>Glamista Store</p>
+            <h3>CADENAS Y COLLARES</h3>
+            <p>CADENA COMBINADA</p>
           </a>
         </div>
         <div class="hero-carousel__slide">
-          <img src="img/glamista/P0072.jpg" alt="" class="img-fluid" width="250px" height="250px">
+          <img src="img/glamista/P0072.jpg" alt="P0072" class="img-fluid" width="250px" height="250px">
           <a href="#" class="hero-carousel__slideOverlay">
-            <h3>Glamista Store</h3>
-            <p>Glamista Store</p>
+            <h3>PULSERAS</h3>
+            <p>DUO BRAZALETES VERDE MENTA</p>
           </a>
         </div>
         <div class="hero-carousel__slide">
-          <img src="img/glamista/R0002.jpg" alt="" class="img-fluid" width="250px" height="250px">
+          <img src="img/glamista/R0002.jpg" alt="R0002" class="img-fluid" width="250px" height="250px">
           <a href="#" class="hero-carousel__slideOverlay">
-            <h3>Glamista Store</h3>
-            <p>Glamista Store</p>
+            <h3>ANILLOS</h3>
+            <p>MEDIA LUNA</p>
           </a>
         </div>
       </div>
@@ -87,7 +87,7 @@ $('.carousel').carousel({
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="img/glamista/TENDENCIAS_A0021.jpg" alt="">
+                <img class="card-img" src="img/glamista/TENDENCIAS_A0021.jpg" alt="TENDENCIAS_A0021">
                 <ul class="card-product__imgOverlay">
                   <li><button><i class="ti-search"></i></button></li>
                   <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -95,16 +95,16 @@ $('.carousel').carousel({
                 </ul>
               </div>
               <div class="card-body">
-                <p>Categoria</p>
-                <h4 class="card-product__title"><a href="single-product.php">Texto del producto</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p>ARETES</p>
+                <h4 class="card-product__title"><a href="single-product.php">SOLES</a></h4>
+                <p class="card-product__price">$39.990</p>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="img/glamista/TENDENCIAS_C0006.jpg" alt="">
+                <img class="card-img" src="img/glamista/TENDENCIAS_C0006.jpg" alt="TENDENCIAS_C0006">
                 <ul class="card-product__imgOverlay">
                   <li><button><i class="ti-search"></i></button></li>
                   <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -112,16 +112,16 @@ $('.carousel').carousel({
                 </ul>
               </div>
               <div class="card-body">
-                <p>Categoria</p>
-                <h4 class="card-product__title"><a href="single-product.php">Texto del producto</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p>CADENAS Y COLLARES</p>
+                <h4 class="card-product__title"><a href="single-product.php">LOVE</a></h4>
+                <p class="card-product__price">$15.990</p>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="img/glamista/TENDENCIAS_J0008.jpg" alt="">
+                <img class="card-img" src="img/glamista/TENDENCIAS_J0008.jpg" alt="TENDENCIAS_J0008">
                 <ul class="card-product__imgOverlay">
                   <li><button><i class="ti-search"></i></button></li>
                   <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -129,16 +129,16 @@ $('.carousel').carousel({
                 </ul>
               </div>
               <div class="card-body">
-                <p>Categoria</p>
-                <h4 class="card-product__title"><a href="single-product.php">Texto del producto</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p>JUEGOS</p>
+                <h4 class="card-product__title"><a href="single-product.php">ANCLA</a></h4>
+                <p class="card-product__price">$19.990</p>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="img/glamista/TENDENCIAS_P0056.jpg" alt="">
+                <img class="card-img" src="img/glamista/TENDENCIAS_P0056.jpg" alt="TENDENCIAS_P0056">
                 <ul class="card-product__imgOverlay">
                   <li><button><i class="ti-search"></i></button></li>
                   <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -146,9 +146,9 @@ $('.carousel').carousel({
                 </ul>
               </div>
               <div class="card-body">
-                <p>Categoria</p>
-                <h4 class="card-product__title"><a href="single-product.php">Texto del producto</a></h4>
-                <p class="card-product__price">$150.00</p>
+                <p>PULSERAS</p>
+                <h4 class="card-product__title"><a href="single-product.php">CIERRE DE IMÁN</a></h4>
+                <p class="card-product__price">$19.990</p>
               </div>
             </div>
           </div>
@@ -190,7 +190,7 @@ $('.carousel').carousel({
         <div class="owl-carousel owl-theme" id="bestSellerCarousel">
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="img/glamista/mejores-regalos_A0036.jpg" alt="">
+              <img class="img-fluid" src="img/glamista/mejores-regalos_A0036.jpg" alt="mejores-regalos_A0036">
               <ul class="card-product__imgOverlay">
                 <li><button><i class="ti-search"></i></button></li>
                 <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -198,15 +198,15 @@ $('.carousel').carousel({
               </ul>
             </div>
             <div class="card-body">
-              <p>Categoría</p>
-              <h4 class="card-product__title"><a href="single-product.php">Texto de producto</a></h4>
-              <p class="card-product__price">$150.00</p>
+              <p>ARETES</p>
+              <h4 class="card-product__title"><a href="single-product.php">PRIMAVERA</a></h4>
+              <p class="card-product__price">$37.990</p>
             </div>
           </div>
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="img/glamista/mejores-regalos_E0004.jpg" alt="">
+              <img class="img-fluid" src="img/glamista/mejores-regalos_E0004.jpg" alt="mejores-regalos_E0004">
               <ul class="card-product__imgOverlay">
                 <li><button><i class="ti-search"></i></button></li>
                 <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -214,15 +214,15 @@ $('.carousel').carousel({
               </ul>
             </div>
             <div class="card-body">
-              <p>Categoría</p>
-              <h4 class="card-product__title"><a href="single-product.php">Texto de producto</a></h4>
-              <p class="card-product__price">$150.00</p>
+              <p>HEBILLAS</p>
+              <h4 class="card-product__title"><a href="single-product.php">LINEA DE PERLAS</a></h4>
+              <p class="card-product__price">$8.990</p>
             </div>
           </div>
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="img/glamista/mejores-regalos_J0012.jpg" alt="">
+              <img class="img-fluid" src="img/glamista/mejores-regalos_J0012.jpg" alt="mejores-regalos_J0012">
               <ul class="card-product__imgOverlay">
                 <li><button><i class="ti-search"></i></button></li>
                 <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -230,15 +230,15 @@ $('.carousel').carousel({
               </ul>
             </div>
             <div class="card-body">
-              <p>Categoría</p>
-              <h4 class="card-product__title"><a href="single-product.php">Texto de producto</a></h4>
-              <p class="card-product__price">$150.00</p>
+              <p>JUEGOS</p>
+              <h4 class="card-product__title"><a href="single-product.php">COPO DE NIEVE</a></h4>
+              <p class="card-product__price">$19.990</p>
             </div>
           </div>
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="img/glamista/mejores-regalos_R0001.jpg" alt="">
+              <img class="img-fluid" src="img/glamista/mejores-regalos_R0001.jpg" alt="/mejores-regalos_R0001">
               <ul class="card-product__imgOverlay">
                 <li><button><i class="ti-search"></i></button></li>
                 <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -246,15 +246,15 @@ $('.carousel').carousel({
               </ul>
             </div>
             <div class="card-body">
-              <p>Categoría</p>
-              <h4 class="card-product__title"><a href="single-product.php">Texto de producto</a></h4>
-              <p class="card-product__price">$150.00</p>
+              <p>ANILLOS</p>
+              <h4 class="card-product__title"><a href="single-product.php">BOA</a></h4>
+              <p class="card-product__price">$34.990</p>
             </div>
           </div>
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="img/glamista/mejores-regalos_A0035.jpg" alt="">
+              <img class="img-fluid" src="img/glamista/mejores-regalos_A0035.jpg" alt="mejores-regalos_A0035">
               <ul class="card-product__imgOverlay">
                 <li><button><i class="ti-search"></i></button></li>
                 <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -262,15 +262,16 @@ $('.carousel').carousel({
               </ul>
             </div>
             <div class="card-body">
-              <p>Categoría</p>
-              <h4 class="card-product__title"><a href="single-product.php">Texto de producto</a></h4>
-              <p class="card-product__price">$150.00</p>
+              <p>ARETES</p>
+              <h4 class="card-product__title"><a href="single-product.php">TOPOS ENREDADO ROJO</a></h4>
+              <p class="card-product__price">$27.990
+              </p>
             </div>
           </div>
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="img/glamista/mejores-regalos_A0034.jpg" alt="">
+              <img class="img-fluid" src="img/glamista/mejores-regalos_A0034.jpg" alt="mejores-regalos_A0034">
               <ul class="card-product__imgOverlay">
                 <li><button><i class="ti-search"></i></button></li>
                 <li><button><i class="ti-shopping-cart"></i></button></li>
@@ -278,9 +279,9 @@ $('.carousel').carousel({
               </ul>
             </div>
             <div class="card-body">
-              <p>Categoría</p>
-              <h4 class="card-product__title"><a href="single-product.php">Texto de producto</a></h4>
-              <p class="card-product__price">$150.00</p>
+              <p>ARETES</p>
+              <h4 class="card-product__title"><a href="single-product.php">TOPOS ENREDADO VERDE</a></h4>
+              <p class="card-product__price">$27.990</p>
             </div>
           </div>
 
