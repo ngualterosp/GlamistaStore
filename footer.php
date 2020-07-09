@@ -6,26 +6,21 @@
 					<div class="col-lg-3 col-md-6 col-sm-6">
 						<div class="single-footer-widget tp_widgets">
 							<h4 class="footer_title">Nuestra mision</h4>
-							<p>
-								MIsion glamista
-							</p>
-							<p>
-								glamista
+							<p align="justify" style="color:white">
+								<b>Misión:</b> Ofrecer a nuestros clientes accesorios de bisutería tales como: aretes, cadenas, collares, juegos y pulseras; con amplia variedad de modelos, un diseño innovador y elaborados con materiales de alta calidad a excelente precio. Dando un valor agregado en su presentación con propuestas de empaque especiales, personalizadas y amigables con el medio ambiente; brindando una mejor experiencia a nuestros clientes que nos permita su fidelización con la marca.
 							</p>
 						</div>
 					</div>
-					<div class="offset-lg-1 col-lg-2 col-md-6 col-sm-6">
-						<div class="single-footer-widget tp_widgets">
-							<h4 class="footer_title">Secciones</h4>
-							<ul class="list">
-								<li><a href="#">Inicio</a></li>
-								<li><a href="#">Tienda</a></li>
-								<li><a href="#">Regalos</a></li>
-								<li><a href="#">Contáctanos</a></li>
 
-							</ul>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="single-footer-widget tp_widgets">
+							<h4 class="footer_title">Nuestra mision</h4>
+							<p align="justify" style="color:white">
+								<b>Visión:</b> Ofrecer a nuestros clientes accesorios de bisutería tales como: aretes, cadenas, collares, juegos y pulseras; con amplia variedad de modelos, un diseño innovador y elaborados con materiales de alta calidad a excelente precio. Dando un valor agregado en su presentación con propuestas de empaque especiales, personalizadas y amigables con el medio ambiente; brindando una mejor experiencia a nuestros clientes que nos permita su fidelización con la marca.
+							</p>
 						</div>
 					</div>
+
 					<div class="col-lg-2 col-md-6 col-sm-6">
 						<div class="single-footer-widget instafeed">
 							<h4 class="footer_title">Galeria</h4>
@@ -39,6 +34,7 @@
 							</ul>
 						</div>
 					</div>
+
 					<div class="offset-lg-1 col-lg-3 col-md-6 col-sm-6">
 						<div class="single-footer-widget tp_widgets">
 							<h4 class="footer_title">Contáctanos</h4>
@@ -47,14 +43,14 @@
 									<span class="fa fa-location-arrow"></span>
 									Nuestra ubicación
 								</p>
-								<p> 123, Dirección glamista</p>
+								<p style="color:white"> 123, Dirección glamista</p>
 
 								<p class="sm-head">
 									<span class="fa fa-phone"></span>
 									Teléfono celular
 								</p>
-								<p>
-									319 207 9795 <br>
+								<p style="color:white">
+
 									318 435 2526
 								</p>
 
@@ -62,7 +58,7 @@
 									<span class="fa fa-envelope"></span>
 									E-mail
 								</p>
-								<p>
+								<p style="color:white">
 									glamista@gmail.com <br>
 									www.glamistastore.com
 								</p>
