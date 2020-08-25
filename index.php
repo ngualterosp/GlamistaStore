@@ -92,9 +92,7 @@ $('.carousel').carousel({
               <div class="card-product__img">
                 <img class="card-img" src="img/glamista/TENDENCIAS_A0021.jpg" alt="TENDENCIAS_A0021">
                 <ul class="card-product__imgOverlay">
-                  <li><button><i class="ti-search"></i></button></li>
-                  <li><button><i class="ti-shopping-cart"></i></button></li>
-                  <li><button><i class="ti-heart"></i></button></li>
+                <li><button><i class="ti-shopping-cart"></i></button></li>
                 </ul>
               </div>
               <div class="card-body">
@@ -109,9 +107,7 @@ $('.carousel').carousel({
               <div class="card-product__img">
                 <img class="card-img" src="img/glamista/TENDENCIAS_C0006.jpg" alt="TENDENCIAS_C0006">
                 <ul class="card-product__imgOverlay">
-                  <li><button><i class="ti-search"></i></button></li>
-                  <li><button><i class="ti-shopping-cart"></i></button></li>
-                  <li><button><i class="ti-heart"></i></button></li>
+                <li><button><i class="ti-shopping-cart"></i></button></li>
                 </ul>
               </div>
               <div class="card-body">
@@ -126,9 +122,8 @@ $('.carousel').carousel({
               <div class="card-product__img">
                 <img class="card-img" src="img/glamista/TENDENCIAS_J0008.jpg" alt="TENDENCIAS_J0008">
                 <ul class="card-product__imgOverlay">
-                  <li><button><i class="ti-search"></i></button></li>
-                  <li><button><i class="ti-shopping-cart"></i></button></li>
-                  <li><button><i class="ti-heart"></i></button></li>
+                <li><button><i class="ti-shopping-cart"></i></button></li>
+                  
                 </ul>
               </div>
               <div class="card-body">
@@ -143,9 +138,7 @@ $('.carousel').carousel({
               <div class="card-product__img">
                 <img class="card-img" src="img/glamista/TENDENCIAS_P0056.jpg" alt="TENDENCIAS_P0056">
                 <ul class="card-product__imgOverlay">
-                  <li><button><i class="ti-search"></i></button></li>
-                  <li><button><i class="ti-shopping-cart"></i></button></li>
-                  <li><button><i class="ti-heart"></i></button></li>
+                <li><button><i class="ti-shopping-cart"></i></button></li>
                 </ul>
               </div>
               <div class="card-body">
@@ -162,25 +155,7 @@ $('.carousel').carousel({
     <!-- ================ trending product section end ================= -->
 
 
-    <!-- ================ offer section start ================= -->
-    <section class="offer" id="parallax-1" data-anchor-target="#parallax-1" data-300-top="background-position: 20px 30px" data-top-bottom="background-position: 0 20px">
-      <div class="container">
-        <div class="row">
-          <div class="col-xl-5">
-            <div class="offer__content text-center">
-              <h3>Nueva linea de
-                accesorios al</h3>
-                <div><h2>10%</h2>
-                <h3> de
-                descuento</h3> </div>
-
-              <p>Por tiempo limitado</p>
-              <a class="button button--active mt-3 mt-xl-4" href="#">Shop Now</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    
     <!-- ================ offer section end ================= -->
 
     <!-- ================ Best Selling item  carousel ================= -->
@@ -195,9 +170,8 @@ $('.carousel').carousel({
             <div class="card-product__img">
               <img class="img-fluid" src="img/glamista/mejores-regalos_A0036.jpg" alt="mejores-regalos_A0036">
               <ul class="card-product__imgOverlay">
-                <li><button><i class="ti-search"></i></button></li>
-                <li><button><i class="ti-shopping-cart"></i></button></li>
-                <li><button><i class="ti-heart"></i></button></li>
+              <li><button><i class="ti-shopping-cart"></i></button></li>
+                  
               </ul>
             </div>
             <div class="card-body">
@@ -211,9 +185,8 @@ $('.carousel').carousel({
             <div class="card-product__img">
               <img class="img-fluid" src="img/glamista/mejores-regalos_E0004.jpg" alt="mejores-regalos_E0004">
               <ul class="card-product__imgOverlay">
-                <li><button><i class="ti-search"></i></button></li>
-                <li><button><i class="ti-shopping-cart"></i></button></li>
-                <li><button><i class="ti-heart"></i></button></li>
+              <li><button><i class="ti-shopping-cart"></i></button></li>
+                  
               </ul>
             </div>
             <div class="card-body">
@@ -227,9 +200,8 @@ $('.carousel').carousel({
             <div class="card-product__img">
               <img class="img-fluid" src="img/glamista/mejores-regalos_J0012.jpg" alt="mejores-regalos_J0012">
               <ul class="card-product__imgOverlay">
-                <li><button><i class="ti-search"></i></button></li>
-                <li><button><i class="ti-shopping-cart"></i></button></li>
-                <li><button><i class="ti-heart"></i></button></li>
+              <li><button><i class="ti-shopping-cart"></i></button></li>
+                  
               </ul>
             </div>
             <div class="card-body">
@@ -243,9 +215,8 @@ $('.carousel').carousel({
             <div class="card-product__img">
               <img class="img-fluid" src="img/glamista/mejores-regalos_R0001.jpg" alt="/mejores-regalos_R0001">
               <ul class="card-product__imgOverlay">
-                <li><button><i class="ti-search"></i></button></li>
-                <li><button><i class="ti-shopping-cart"></i></button></li>
-                <li><button><i class="ti-heart"></i></button></li>
+              <li><button><i class="ti-shopping-cart"></i></button></li>
+                  
               </ul>
             </div>
             <div class="card-body">
@@ -259,9 +230,8 @@ $('.carousel').carousel({
             <div class="card-product__img">
               <img class="img-fluid" src="img/glamista/mejores-regalos_A0035.jpg" alt="mejores-regalos_A0035">
               <ul class="card-product__imgOverlay">
-                <li><button><i class="ti-search"></i></button></li>
-                <li><button><i class="ti-shopping-cart"></i></button></li>
-                <li><button><i class="ti-heart"></i></button></li>
+              <li><button><i class="ti-shopping-cart"></i></button></li>
+                  
               </ul>
             </div>
             <div class="card-body">
@@ -276,9 +246,7 @@ $('.carousel').carousel({
             <div class="card-product__img">
               <img class="img-fluid" src="img/glamista/mejores-regalos_A0034.jpg" alt="mejores-regalos_A0034">
               <ul class="card-product__imgOverlay">
-                <li><button><i class="ti-search"></i></button></li>
-                <li><button><i class="ti-shopping-cart"></i></button></li>
-                <li><button><i class="ti-heart"></i></button></li>
+              <li><button><i class="ti-shopping-cart"></i></button></li>
               </ul>
             </div>
             <div class="card-body">
