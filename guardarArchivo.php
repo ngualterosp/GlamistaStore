@@ -2,9 +2,10 @@
 
 $archivo = fopen("archivos/emails.txt","a") or die ("Error");
 $email=$_REQUEST['email'];
-fwrite($archivo,$email);
+$nombre=$_REQUEST['nombre'];
+$var = $nombre . "," . $email;
+fwrite($archivo,$var);
 fwrite($archivo,"\n");
-
 
  ?>
 

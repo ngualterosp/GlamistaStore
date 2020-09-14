@@ -19,9 +19,6 @@
     <div class="carousel-item">
       <img class="d-block w-100" src="img/glamista/baner_3.jpg" alt="Third slide">
     </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="img/glamista/baner_4.jpg" alt="Third slide">
-    </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -52,7 +49,7 @@ $('.carousel').carousel({
 
 
     <!--================ Hero Carousel start =================-->
-    <section class="section-margin mt-0">
+    <section class="section-margin mt-5">
       <div class="owl-carousel owl-theme hero-carousel">
         <div class="hero-carousel__slide">
           <img src="img/glamista/C0023.jpg" alt="C0023" class="img-fluid"  width="250px" height="250px">
@@ -123,7 +120,7 @@ $('.carousel').carousel({
                 <img class="card-img" src="img/glamista/TENDENCIAS_J0008.jpg" alt="TENDENCIAS_J0008">
                 <ul class="card-product__imgOverlay">
                 <li><button><i class="ti-shopping-cart"></i></button></li>
-                  
+
                 </ul>
               </div>
               <div class="card-body">
@@ -155,7 +152,7 @@ $('.carousel').carousel({
     <!-- ================ trending product section end ================= -->
 
 
-    
+
     <!-- ================ offer section end ================= -->
 
     <!-- ================ Best Selling item  carousel ================= -->
@@ -171,7 +168,7 @@ $('.carousel').carousel({
               <img class="img-fluid" src="img/glamista/mejores-regalos_A0036.jpg" alt="mejores-regalos_A0036">
               <ul class="card-product__imgOverlay">
               <li><button><i class="ti-shopping-cart"></i></button></li>
-                  
+
               </ul>
             </div>
             <div class="card-body">
@@ -186,7 +183,7 @@ $('.carousel').carousel({
               <img class="img-fluid" src="img/glamista/mejores-regalos_E0004.jpg" alt="mejores-regalos_E0004">
               <ul class="card-product__imgOverlay">
               <li><button><i class="ti-shopping-cart"></i></button></li>
-                  
+
               </ul>
             </div>
             <div class="card-body">
@@ -201,7 +198,7 @@ $('.carousel').carousel({
               <img class="img-fluid" src="img/glamista/mejores-regalos_J0012.jpg" alt="mejores-regalos_J0012">
               <ul class="card-product__imgOverlay">
               <li><button><i class="ti-shopping-cart"></i></button></li>
-                  
+
               </ul>
             </div>
             <div class="card-body">
@@ -216,7 +213,7 @@ $('.carousel').carousel({
               <img class="img-fluid" src="img/glamista/mejores-regalos_R0001.jpg" alt="/mejores-regalos_R0001">
               <ul class="card-product__imgOverlay">
               <li><button><i class="ti-shopping-cart"></i></button></li>
-                  
+
               </ul>
             </div>
             <div class="card-body">
@@ -231,7 +228,7 @@ $('.carousel').carousel({
               <img class="img-fluid" src="img/glamista/mejores-regalos_A0035.jpg" alt="mejores-regalos_A0035">
               <ul class="card-product__imgOverlay">
               <li><button><i class="ti-shopping-cart"></i></button></li>
-                  
+
               </ul>
             </div>
             <div class="card-body">
@@ -334,7 +331,8 @@ $('.carousel').carousel({
 
             <form action="guardarArchivo.php" method="post" class="subscribe-form form-inline mt-5 pt-1">
               <div class="form-group ml-sm-auto">
-                <input class="form-control mb-1" type="email" name="email" placeholder="Ingresa tu email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '" >
+                <input class="form-control mb-1" type="text" name="nombre" placeholder="Ingresa tu nombre" ><br>
+                <input class="form-control mb-1" type="email" name="email" placeholder="Ingresa tu email" >
                 <div class="info"></div>
               </div>
               <input class="button button-subscribe mr-auto mb-1" type="submit" name="boton" value="Suscribete" onclick="document.getElementById('id01').style.display='block'"></button>
