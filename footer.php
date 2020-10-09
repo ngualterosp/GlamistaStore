@@ -22,17 +22,51 @@
 
 					<div class="col-lg-2 col-md-6 col-sm-6">
 						<div class="single-footer-widget instafeed">
-							<h4 class="footer_title">Síguenos en las redes</h4>
 							<ul class="list instafeed d-flex flex-wrap">
-								<li><a href="https://www.facebook.com/glamista.store""><img src="img/glamista/face.png"  width="30" height="30" alt=""><p style="color:white"> Facebook </p></a></li>
-								<li><a href="https://www.instagram.com/glamista.store/"><img src="img/glamista/insta.png"  width="30" height="30" alt=""><p style="color:white"> Instagram </p></a></li>
-								<li><a href="https://wa.link/x3bt1v"><img src="img/glamista/twitter.png"  width="30" height="30" alt=""><p style="color:white"> Twitter </p></a></li>
-								<li><a href="https://wa.link/x3bt1v"><img src="img/glamista/wp.png"  width="30" height="30" alt=""><p style="color:white"> Whatsapp </p></a></li>
+							<div class="ml-40">
+							<h4 class="footer_title">Síguenos en las redes</h4>
+							<table class="egt">
+							<tr>
+							
+							<td>	<p class="sm-head">
+								<li><a href="https://www.facebook.com/glamista.store"><img src="img/glamista/face.png"  width="30" height="30" alt=""></li> </td>
 
+								<td><p style="color:white"> Facebook </p></a>
+								</p>
+								<p style="color:white"> </p></td>
+							</tr>
+
+							<td>	<p class="sm-head">
+								<li><a href="https://www.instagram.com/glamista.store/"><img src="img/glamista/insta.png"  width="30" height="30" alt=""></li> </td>
+
+								<td><p style="color:white">  Instagram </p></a>
+								</p>
+								<p style="color:white"> </p></td>
+							</tr>
+
+							<td>	<p class="sm-head">
+								<li><a href="https://www.facebook.com/glamista.store"><img src="img/glamista/twitter.png"  width="30" height="30" alt=""></li> </td>
+
+								<td><p style="color:white"> Twitter </p></a>
+								</p>
+								<p style="color:white"> </p></td>
+							</tr>
+						
+							<td>	<p class="sm-head">
+								<li><a href="https://wa.link/x3bt1v"><img src="img/glamista/wp.png"  width="30" height="30" alt=""></li> </td>
+
+								<td><p style="color:white"> Whatsapp  </p></a>
+								</p>
+								<p style="color:white"> </p></td>
+							</tr>
+							</table>	
+								
+							</div>
 							</ul>
 						</div>
 					</div>
 
+					
 					<div class="offset-lg-1 col-lg-3 col-md-6 col-sm-6">
 						<div class="single-footer-widget tp_widgets">
 							<h4 class="footer_title">Contáctanos</h4>
