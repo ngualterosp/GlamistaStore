@@ -36,3 +36,11 @@
 		background: #e8e8e8;; /* Cambiamos el fondo cuando el usuario pase el mouse */
 		padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
 	}
+
+    .modal{
+        background: linear-gradient(0deg,white 70%, white 30%);
+        width: 800px;
+        height: 350px;
+        top: 40%;
+        left: 30%;}
+      
