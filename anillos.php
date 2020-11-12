@@ -41,8 +41,8 @@ $('.carousel').carousel({
 <tr>
     <td>
     <div class="row">
-  <div class="col-md-12">
-  <div class="col-lg-4 col-md-12 mb-4">
+  <div class>
+  <div class>
 
 <!--Modal: Name-->
 <div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -124,8 +124,8 @@ $('.carousel').carousel({
     </td>
     <td>
     <div class="row">
-  <div class="col-md-12">
-  <div class="col-lg-4 col-md-12 mb-4">
+    <div class>
+  <div class>
 
 <!--Modal: Name-->
 <div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -207,8 +207,8 @@ $('.carousel').carousel({
     </td>
     <td>
     <div class="row">
-  <div class="col-md-12">
-  <div class="col-lg-4 col-md-12 mb-4">
+    <div class>
+  <div class>
 
 <!--Modal: Name-->
 <div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -292,8 +292,8 @@ $('.carousel').carousel({
 <tr>
     <td>
     <div class="row">
-  <div class="col-md-12">
-  <div class="col-lg-4 col-md-12 mb-4">
+    <div class>
+  <div class>
 
 <!--Modal: Name-->
 <div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -375,8 +375,8 @@ $('.carousel').carousel({
     </td>
     <td>
     <div class="row">
-  <div class="col-md-12">
-  <div class="col-lg-4 col-md-12 mb-4">
+    <div class>
+  <div class>
 
 <!--Modal: Name-->
 <div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -458,8 +458,8 @@ $('.carousel').carousel({
     </td>
     <td>
     <div class="row">
-  <div class="col-md-12">
-  <div class="col-lg-4 col-md-12 mb-4">
+    <div class>
+  <div class>
 
 <!--Modal: Name-->
 <div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
