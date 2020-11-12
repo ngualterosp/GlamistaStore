@@ -36,7 +36,11 @@ $('.carousel').carousel({
 })
 </script>
 
-<div class="row">
+<section>
+<table>
+<tr>
+    <td>
+    <div class="row">
   <div class="col-md-12">
   <div class="col-lg-4 col-md-12 mb-4">
 
@@ -47,13 +51,51 @@ $('.carousel').carousel({
     <div class="modal-content">
       <!--Body-->
       <div class="modal-body mb-0 p-0">
-      
-        <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="200">
-        <p> owijrfowiejrfpwoiejrfpowierjfpwoeirjfwpeorifjweprfiojwerf </p>
+      <table style="width:100%">
+  <tr>
+    <td>
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</td>
+    <td><h2 align="center">Nombre del producto</h2>
+    <p align="center">descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    </p>
+    <h4 class="card-product__title" align="center">$9000</h4>
+    <center>
+    <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4">Comprar</button>
+    </center>
+
+    </td> 
+
+  </tr>
+</table>
+        
+        
       </div>
       <!--Footer-->
       <div class="modal-footer justify-content-center">
-        <span class="mr-4">Spread the word!</span>
+        <span class="mr-4">No te quedes sin el tuyo!</span>
         <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>
         <!--Twitter-->
         <a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>
@@ -79,42 +121,432 @@ $('.carousel').carousel({
 
 </div>
 </div>
+    </td>
+    <td>
+    <div class="row">
+  <div class="col-md-12">
+  <div class="col-lg-4 col-md-12 mb-4">
 
+<!--Modal: Name-->
+<div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <!--Content-->
+    <div class="modal-content">
+      <!--Body-->
+      <div class="modal-body mb-0 p-0">
+      <table style="width:100%">
+  <tr>
+    <td>
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</td>
+    <td><h2 align="center">Nombre del producto</h2>
+    <p align="center">descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    </p>
+    <h4 class="card-product__title" align="center">$9000</h4>
+    <center>
+    <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4">Comprar</button>
+    </center>
+
+    </td> 
+
+  </tr>
+</table>
+        
+        
+      </div>
+      <!--Footer-->
+      <div class="modal-footer justify-content-center">
+        <span class="mr-4">No te quedes sin el tuyo!</span>
+        <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>
+        <!--Twitter-->
+        <a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>
+        <!--Google +-->
+        <a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>
+        <!--Linkedin-->
+        <a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+
+        <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+
+      </div>
+    </div>
+    <!--/.Content-->
+  </div>
+</div>
+<!--Modal: Name-->
+<a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-1.jpg" alt="video"
+    data-toggle="modal" data-target="#modal1"></a>
+    <p align="center">Accessories</p>
+    <h4 class="card-product__title" align="center"><a href="#">Quartz Belt Watch</a></h4>
+    <p class="card-product__price" align="center">$150.00</p>
+</div>
+
+</div>
+</div>
+    </td>
+    <td>
+    <div class="row">
+  <div class="col-md-12">
+  <div class="col-lg-4 col-md-12 mb-4">
+
+<!--Modal: Name-->
+<div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <!--Content-->
+    <div class="modal-content">
+      <!--Body-->
+      <div class="modal-body mb-0 p-0">
+      <table style="width:100%">
+  <tr>
+    <td>
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</td>
+    <td><h2 align="center">Nombre del producto</h2>
+    <p align="center">descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    </p>
+    <h4 class="card-product__title" align="center">$9000</h4>
+    <center>
+    <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4">Comprar</button>
+    </center>
+
+    </td> 
+
+  </tr>
+</table>
+        
+        
+      </div>
+      <!--Footer-->
+      <div class="modal-footer justify-content-center">
+        <span class="mr-4">No te quedes sin el tuyo!</span>
+        <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>
+        <!--Twitter-->
+        <a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>
+        <!--Google +-->
+        <a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>
+        <!--Linkedin-->
+        <a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+
+        <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+
+      </div>
+    </div>
+    <!--/.Content-->
+  </div>
+</div>
+<!--Modal: Name-->
+<a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-1.jpg" alt="video"
+    data-toggle="modal" data-target="#modal1"></a>
+    <p align="center">Accessories</p>
+    <h4 class="card-product__title" align="center"><a href="#">Quartz Belt Watch</a></h4>
+    <p class="card-product__price" align="center">$150.00</p>
+</div>
+
+</div>
+</div>
+    </td>
+</tr>
+<tr>
+    <td>
+    <div class="row">
+  <div class="col-md-12">
+  <div class="col-lg-4 col-md-12 mb-4">
+
+<!--Modal: Name-->
+<div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <!--Content-->
+    <div class="modal-content">
+      <!--Body-->
+      <div class="modal-body mb-0 p-0">
+      <table style="width:100%">
+  <tr>
+    <td>
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</td>
+    <td><h2 align="center">Nombre del producto</h2>
+    <p align="center">descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    </p>
+    <h4 class="card-product__title" align="center">$9000</h4>
+    <center>
+    <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4">Comprar</button>
+    </center>
+
+    </td> 
+
+  </tr>
+</table>
+        
+        
+      </div>
+      <!--Footer-->
+      <div class="modal-footer justify-content-center">
+        <span class="mr-4">No te quedes sin el tuyo!</span>
+        <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>
+        <!--Twitter-->
+        <a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>
+        <!--Google +-->
+        <a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>
+        <!--Linkedin-->
+        <a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+
+        <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+
+      </div>
+    </div>
+    <!--/.Content-->
+  </div>
+</div>
+<!--Modal: Name-->
+<a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-1.jpg" alt="video"
+    data-toggle="modal" data-target="#modal1"></a>
+    <p align="center">Accessories</p>
+    <h4 class="card-product__title" align="center"><a href="#">Quartz Belt Watch</a></h4>
+    <p class="card-product__price" align="center">$150.00</p>
+</div>
+
+</div>
+</div>
+    </td>
+    <td>
+    <div class="row">
+  <div class="col-md-12">
+  <div class="col-lg-4 col-md-12 mb-4">
+
+<!--Modal: Name-->
+<div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <!--Content-->
+    <div class="modal-content">
+      <!--Body-->
+      <div class="modal-body mb-0 p-0">
+      <table style="width:100%">
+  <tr>
+    <td>
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</td>
+    <td><h2 align="center">Nombre del producto</h2>
+    <p align="center">descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    </p>
+    <h4 class="card-product__title" align="center">$9000</h4>
+    <center>
+    <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4">Comprar</button>
+    </center>
+
+    </td> 
+
+  </tr>
+</table>
+        
+        
+      </div>
+      <!--Footer-->
+      <div class="modal-footer justify-content-center">
+        <span class="mr-4">No te quedes sin el tuyo!</span>
+        <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>
+        <!--Twitter-->
+        <a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>
+        <!--Google +-->
+        <a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>
+        <!--Linkedin-->
+        <a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+
+        <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+
+      </div>
+    </div>
+    <!--/.Content-->
+  </div>
+</div>
+<!--Modal: Name-->
+<a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-1.jpg" alt="video"
+    data-toggle="modal" data-target="#modal1"></a>
+    <p align="center">Accessories</p>
+    <h4 class="card-product__title" align="center"><a href="#">Quartz Belt Watch</a></h4>
+    <p class="card-product__price" align="center">$150.00</p>
+</div>
+
+</div>
+</div>
+    </td>
+    <td>
+    <div class="row">
+  <div class="col-md-12">
+  <div class="col-lg-4 col-md-12 mb-4">
+
+<!--Modal: Name-->
+<div class="modal fade" id="modal1" tabindex="10" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <!--Content-->
+    <div class="modal-content">
+      <!--Body-->
+      <div class="modal-body mb-0 p-0">
+      <table style="width:100%">
+  <tr>
+    <td>
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+    <div class="carousel-item">
+      <img src="img/glamista/PROXIMOS-ARTICULOS_P0004M.jpg" width="300">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</td>
+    <td><h2 align="center">Nombre del producto</h2>
+    <p align="center">descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    descripcion del producto descripcion del producto descripcion del producto descripcion del producto
+    </p>
+    <h4 class="card-product__title" align="center">$9000</h4>
+    <center>
+    <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4">Comprar</button>
+    </center>
+
+    </td> 
+
+  </tr>
+</table>
+        
+        
+      </div>
+      <!--Footer-->
+      <div class="modal-footer justify-content-center">
+        <span class="mr-4">No te quedes sin el tuyo!</span>
+        <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>
+        <!--Twitter-->
+        <a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>
+        <!--Google +-->
+        <a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>
+        <!--Linkedin-->
+        <a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+
+        <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
+
+      </div>
+    </div>
+    <!--/.Content-->
+  </div>
+</div>
+<!--Modal: Name-->
+<a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-1.jpg" alt="video"
+    data-toggle="modal" data-target="#modal1"></a>
+    <p align="center">Accessories</p>
+    <h4 class="card-product__title" align="center"><a href="#">Quartz Belt Watch</a></h4>
+    <p class="card-product__price" align="center">$150.00</p>
+</div>
+
+</div>
+</div>
+    </td>
+</tr>
+</table>
+
+
+
+</section>
      
-  
-	<!-- ================ category section start ================= -->		  
-  <section class="section-margin--small mb-5">
-    <div class="container">
-      <div class="row">
-        <div class="col-xl-3 col-lg-4 col-md-5">
-        </div>
-        <div class="col-xl-9 col-lg-8 col-md-7">
-          <!-- Start Filter Bar -->
-          <div class="filter-bar d-flex flex-wrap align-items-center">
-            <div class="sorting">
-              <select>
-                <option value="1">Default sorting</option>
-                <option value="1">Default sorting</option>
-                <option value="1">Default sorting</option>
-              </select>
-            </div>
-            <div class="sorting mr-auto">
-              <select>
-                <option value="1">Show 12</option>
-                <option value="1">Show 12</option>
-                <option value="1">Show 12</option>
-              </select>
-            </div>
-            <div>
-              <div class="input-group filter-bar-search">
-                <input type="text" placeholder="Search">
-                <div class="input-group-append">
-                  <button type="button"><i class="ti-search"></i></button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End Filter Bar -->
+            <!-- End Filter Bar -->
           <!-- Start Best Seller -->
           <section class="lattest-product-area pb-40 category-list">
             <div class="row">
