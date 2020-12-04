@@ -608,7 +608,7 @@ $('.carousel').carousel({
         </div>
       </div>
     </section>
-	<!-- ================ Subscribe section end ================= -->		  
+	<!-- ================ Subscribe section end enddd================= -->		  
 
   <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
   <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
@@ -619,6 +619,7 @@ $('.carousel').carousel({
   <script src="vendors/jquery.ajaxchimp.min.js"></script>
   <script src="vendors/mail-script.js"></script>
   <script src="js/main.js"></script>
+  
 </body>
 </html>
 
