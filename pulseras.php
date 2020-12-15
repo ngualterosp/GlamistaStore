@@ -38,6 +38,7 @@ $('.carousel').carousel({
 
 <div>
 <br>
+<br>
 </div>
 <section>
 <table>
